@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "SugaRiddle",
+  "base_artist": "yanaginagi",
+  "createdAt": "2025-12-04T15:07:41.074343Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SugaRiddle",
+      "artist": "yanaginagi",
+      "has_synced": false,
+      "path": "select/01_SugaRiddle_yanaginagi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SugaRiddle (Instrumental)",
+      "artist": "yanaginagi",
+      "has_synced": false,
+      "path": "select/02_SugaRiddle_(Instrumental)_yanaginagi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SugaRiddle",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_SugaRiddle_やなぎなぎ.txt"
+    }
+  ]
+}
